@@ -34,5 +34,5 @@
 
 1. Faça o clone ou download deste repositório
 2. Instale as dependências com: `npm install`
-4. Para iniciar: `npm start`
-5. Entre no seu navegador com a url: `http://localhost:3000`
+3. Para iniciar: `npm start`
+4. Entre no seu navegador com a url: `http://localhost:3000`
